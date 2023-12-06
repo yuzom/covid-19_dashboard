@@ -1,0 +1,8 @@
+json
+voila
+numpy
+pandas
+ipywidgets
+matplotlib
+uk_covid19
+IPython
