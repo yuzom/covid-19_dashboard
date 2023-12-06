@@ -2,5 +2,7 @@
 
 Covid-19 Dashboard built and deployed using iPywidgets, Voila and Binders. Based on UK Government [data](https://coronavirus.data.gov.uk/) published by [Public Health England](https://www.gov.uk/government/organisations/public-health-england).
 
+Click [here](https://mybinder.org/v2/gh/yuzom/covid-19_dashboard/2c398dcffabd2ffaaa62a6d4ad44e2ed7a2e4316?urlpath=lab%2Ftree%2Fcovid-19_dashboard.ipynb) to launch the binder.
+
 **(C) 2023 Yuzo Makitani** This repository is released under the [GNU GPLv3.0 or later](https://www.gnu.org/licenses/)
 Code developed for and modified from Dr. Fabrizio Smeraldi's ECS780P class.
