@@ -1,6 +1,6 @@
 # DIY Covid-19 Dashboard Kit
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yuzom/covid-19_dashboard/main?urlpath=voila%2Frender%2Fcovid-19_dashboard.ipynb)
+Click here to launch the online dashboard: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yuzom/covid-19_dashboard/main?urlpath=voila%2Frender%2Fcovid-19_dashboard.ipynb)
 
 Covid-19 Dashboard built and deployed using iPywidgets, Voila and Binders. Based on UK Government [data](https://coronavirus.data.gov.uk/) published by [Public Health England](https://www.gov.uk/government/organisations/public-health-england).
 
